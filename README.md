@@ -94,8 +94,4 @@
     ```sh
     git clone <倉庫網址>
     ```
-2. 安裝所需的 Python 函式庫：
-    ```sh
-    pip install -r requirements.txt
-    ```
-3. 按照每個 Notebook 的教學步驟進行操作。
+2. 按照每個 Notebook 的教學步驟進行操作。
