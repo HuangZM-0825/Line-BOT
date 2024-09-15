@@ -83,10 +83,10 @@
 介紹如何將 LINE BOT 串接到 OpenAI ChatGPT，讓 AI 能夠自動回覆訊息。
 
 ### 26-LINE BOT 串接 OpenAI ChatGPT ( 翻譯機器人 ).ipynb
-教學如何讓使用者透過自訂指令來控制 ChatGPT 的回應。
+介紹如何讓使用者透過自訂指令來控制 ChatGPT 的回應。
 
 ### 27-LINE BOT 串接 OpenAI ChatGPT ( 上下文歷史紀錄 ).ipynb
-教學如何使用 Firebase Realtime Database 儲存聊天歷史紀錄，讓 ChatGPT 能夠根據上下文進行回應。
+介紹如何使用 Firebase Realtime Database 儲存聊天歷史紀錄，讓 ChatGPT 能夠根據上下文進行回應。
 
 ## 如何開始
 
